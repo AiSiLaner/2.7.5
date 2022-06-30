@@ -1,0 +1,8 @@
+GenshinImpact_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Banks0.pck
+GenshinImpact_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Banks13.pck
+GenshinImpact_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Banks20.pck
+GenshinImpact_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Banks21.pck
+GenshinImpact_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Banks26.pck
+GenshinImpact_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Banks30.pck
+GenshinImpact_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Banks8.pck
+GenshinImpact_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\Streamed7.pck
